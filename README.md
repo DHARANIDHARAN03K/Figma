@@ -289,7 +289,7 @@ color: black;
 ```
 
 ## OUTPUT:
-![Alt text](<Screenshot 2023-12-26 221452.png>)
+![Screenshot 2023-12-27 135501](https://github.com/DHARANIDHARAN03K/Figma/assets/144870858/7a61b134-cfab-4895-a722-80390ffa546a)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
